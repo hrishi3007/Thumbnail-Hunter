@@ -1,6 +1,7 @@
 # Thumbnail Hunter
 
-Thumbnail Hunter is a web application designed to fetch and display thumbnails from various websites. It leverages HTML, CSS, JavaScript, and PHP to provide a seamless user experience, utilizing the cURL feature in PHP to retrieve thumbnail images from external URLs.
+Thumbnail Hunter is a web application designed to fetch and display thumbnails from various websites. 
+It leverages HTML, CSS, JavaScript, and PHP to provide a seamless user experience, utilizing the cURL feature in PHP to retrieve thumbnail images from external URLs.
 
 ## Features
 
